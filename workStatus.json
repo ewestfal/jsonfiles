@@ -1,0 +1,13 @@
+{
+  "workStatuses": [
+    {
+      "key": "US Citizen",
+      "value": "I am legally authorized to be employed in the United States, or I am DACA."
+    },
+    {
+      "key": "F1 Visa",
+      "value": "I am NOT legally authorized to be employed in the United States."
+    }
+  ]
+}
+      

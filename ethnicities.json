@@ -1,0 +1,18 @@
+{
+  "ethnicities": [
+    { "label": "Prefer not to answer", "value": null },
+    { "label": "African American", "value": "African American" },
+    { "label": "Black (Non-Hispanic)", "value": "Black (Non-Hispanic)" },
+    { "label": "Alaska Native", "value": "Alaska Native" },
+    { "label": "Asian", "value": "Asian" },
+    { "label": "American Indian", "value": "American Indian" },
+    { "label": "Asian American", "value": "Asian American" },
+    { "label": "Pacific Islander", "value": "Pacific Islander" },
+    { "label": "Latino or Hispanic", "value": "Latino or Hispanic" },
+    { "label": "Native Hawaiian", "value": "Native Hawaiian" },
+    { "label": "Multi-ethnic/Multi-racial", "value": "Multi-ethnic/Multi-racial" },
+    { "label": "Person of Color", "value": "Person of Color" },
+    { "label": "Other", "value": "Other" },
+    { "label": "Caucasian (Non-Hispanic)", "value": "Caucasian (Non-Hispanic)" }
+  ]
+}

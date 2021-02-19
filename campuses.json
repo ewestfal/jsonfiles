@@ -1,0 +1,49 @@
+{
+  "campuses": [
+    {
+      "name": "Bloomington",
+      "institutionId": 18,
+      "campusId": 27
+    },
+    {
+      "name": "East (Richmond)",
+      "institutionId": 18,
+      "campusId": 28
+    },
+    {
+      "name": "Northwest (Gary)",
+      "institutionId": 18,
+      "campusId": 30
+    },
+    {
+      "name": "South Bend",
+      "institutionId": 18,
+      "campusId": 31
+    },
+    {
+      "name": "Southeast (New Albany)",
+      "institutionId": 18,
+      "campusId": 32
+    },
+    {
+      "name": "Fort Wayne",
+      "institutionId": 18,
+      "campusId": 33
+    },
+    {
+      "name": "Kokomo",
+      "institutionId": 45,
+      "campusId": 101
+    },
+    {
+      "name": "IUPUC",
+      "institutionId": 19,
+      "campusId": 34
+    },
+    {
+      "name": "IUPUI",
+      "institutionId": 20,
+      "campusId": 35
+    },
+  ]
+}
